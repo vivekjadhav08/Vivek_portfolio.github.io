@@ -205,7 +205,8 @@ img {
 }
 .container4 {
     width: 100%;
-    padding: 0px 10%;
+    padding: 35px 10%;
+    background-color: #f4f4f4;
 }
 .container3,
 .container4 {
@@ -215,7 +216,7 @@ img {
 .container5 {
     width: 100%;
     padding: 35px 10%;
-    background-color: #f4f4f4;
+    
 }
 .certificate{
     color: #04d9bf;
