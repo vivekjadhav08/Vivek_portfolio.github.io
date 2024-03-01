@@ -260,6 +260,7 @@ main.row {
 .col .contents .box:hover {
     box-shadow: 0px 3px 12px 0px #ccc;
     border: 1px solid transparent;
+    background-color:white;
 }
 
 .col .contents .box::before {
@@ -345,10 +346,14 @@ main.row {
     color: #f4f4f4;
 }
 
+
 .container6 {
     width: 100%;
-    border-radius: 6px;
-    padding: 20px 60px 30px 40px;
+    padding: 35px 10%;
+    background-color: #f4f4f4;
+}
+.container6 {
+    padding-right: calc(10% - 30px);
 }
 .contact{
     color: #04d9bf;
