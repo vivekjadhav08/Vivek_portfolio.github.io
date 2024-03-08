@@ -22,7 +22,7 @@ header {
 
 header .logo {
     font-size: 30px;
-    color: #f984f7;
+    color: #D134FC;
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -44,7 +44,7 @@ header nav ul li a {
 
 header nav ul li a:hover,
 header nav ul li a.active {
-    border-bottom-color: #04d9bf;
+    border-bottom-color: #514EFE;
 }
 
 .hamburger {
@@ -56,7 +56,7 @@ header nav ul li a.active {
     width: 30px;
     height: 3px;
     margin: 5px 0;
-    background: #04d9bf;
+    background: #0F72B8;
 }
 
 
@@ -90,8 +90,7 @@ img {
 }
 
 span {
-    color: #00dfc0;
-
+    color: #514EFE;
     font-weight: 700;
 }
 
@@ -219,12 +218,12 @@ img {
     
 }
 .certificate{
-    color: #04d9bf;
+    color: #A80BC1;
     padding: 0px 0px 20px 30px;
 }
 
 .project{
-    color: #04d9bf;
+    color: #514EFE;
     padding: 0px 0px 20px 30px;
 }
 .container3,
@@ -239,13 +238,13 @@ main.row {
 }
 
 .col .title {
-    color: #04d9bf;
+    color: #C019DA;
     padding: 0px 0px 20px 30px;
 }
 
 .col .contents {
     padding: 0px 30px;
-    border-left: 2px solid #00dfc0;
+    border-left: 2px solid #0F72B8;
 }
 
 .col .contents .box {
@@ -271,7 +270,7 @@ main.row {
     border-radius: 50%;
     right: calc(100% + 22px);
     top: 0;
-    background-color: #00dfc0;
+    background-color: #514EFE;
     border: 2px solid white;
 }
 
@@ -330,7 +329,7 @@ main.row {
 
 
 .btn {
-    background-color: #2d4149;
+    background-color:#0B0B00;
     border-radius: 6px;
     font-size: 100%;
     height: 44px;
@@ -339,13 +338,14 @@ main.row {
     overflow: hidden;
     padding: 0 25px;
     text-align: center;
-    box-shadow: 5px 5px 10px 0 #43e9d36f;
 }
 
 .btn a {
     color: #f4f4f4;
 }
-
+.btn :hover{
+  color: #E8F429;
+}
 
 .container6 {
     width: 100%;
@@ -356,7 +356,21 @@ main.row {
     padding-right: calc(10% - 30px);
 }
 .contact{
-    color: #04d9bf;
+    color: #8C09A0;
     padding: 0px 0px 20px 30px;
 }
-
+a:link {
+    color:#000000;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:hover {
+    color:#514EFE;
+    background-color: transparent;
+  }
+.btn a:link{
+    color:#eaeaea;
+}
+.btn a:hover{
+    color:#E8F429;
+}
