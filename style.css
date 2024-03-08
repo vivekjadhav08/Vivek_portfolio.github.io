@@ -67,6 +67,9 @@ header nav ul li a.active {
     padding: 50px 0;
 
 }
+.container span a{
+    color:#A80BC1;
+}
 
 .text {
     float: left;
@@ -197,7 +200,9 @@ img {
         float: none;
     }
 }
-
+.container2 span{
+    color:#A80BC1;
+}
 .container3 {
     width: 100%;
     padding: 35px 10%;
@@ -223,7 +228,7 @@ img {
 }
 
 .project{
-    color: #514EFE;
+    color: #8C09A0;
     padding: 0px 0px 20px 30px;
 }
 .container3,
