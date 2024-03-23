@@ -231,7 +231,7 @@ img {
     color: #8C09A0;
     padding: 0px 0px 20px 30px;
 }
-.container3,
+
 .container5 {
     padding-right: calc(10% - 30px);
 }
@@ -245,6 +245,16 @@ main.row {
 .col .title {
     color: #C019DA;
     padding: 0px 0px 20px 30px;
+}
+
+.container6 {
+    width: 100%;
+    padding: 35px 10%;
+    background-color: #f4f4f4;
+}
+
+.container6 {
+    padding-right: calc(10% - 30px);
 }
 
 .col .contents {
@@ -331,8 +341,6 @@ main.row {
     }
 }
 
-
-
 .btn {
     background-color:#0B0B00;
     border-radius: 6px;
@@ -352,14 +360,7 @@ main.row {
   color: #E8F429;
 }
 
-.container6 {
-    width: 100%;
-    padding: 35px 10%;
-    background-color: #f4f4f4;
-}
-.container6 {
-    padding-right: calc(10% - 30px);
-}
+
 .contact{
     color: #8C09A0;
     padding: 0px 0px 20px 30px;
@@ -368,6 +369,7 @@ a:link {
     color:#000000;
     background-color: transparent;
     text-decoration: none;
+    
   }
 a:hover {
     color:#514EFE;
